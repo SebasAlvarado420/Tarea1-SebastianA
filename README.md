@@ -1,4 +1,4 @@
-# Tarea 1 - Juego de la Vida - Sebastian Alvarado
+# Tarea 1 - Juego de la Vida - Sebastian Alvarado y Tanisha Miranda
 
 ## Descripción
 Implementación en Python del autómata celular de Conway (Game of Life) con dos versiones:
